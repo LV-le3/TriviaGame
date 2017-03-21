@@ -1,0 +1,55 @@
+h1 {
+
+	font-family: 'Diplomata SC', cursive;
+	font-size: 38px;
+	margin:25px;
+	text-align: center;
+}
+
+
+h2 {
+
+	font-family: 'Bigelow Rules', cursive;  
+	font-size: 35px;
+	font-weight: bold;
+	text-align: center;
+}
+
+
+.trivia{
+	text-align: center;
+	font-family: 'Bigelow Rules', cursive;  
+	font-size:28px;
+	
+
+}
+
+p{
+	font-weight:bold;
+}
+
+
+.row{
+	text-align:center;
+}
+
+.clickme{
+	
+	padding: 12px 12px;
+	background-color: #EEDB00;
+	display: inline-block;
+	text-align:center;
+	font-size:15px;
+
+}
+
+body {
+
+margin-right: 15px; 
+margin-left:15px; 
+
+}
+
+form{
+	margin:20px;
+}
